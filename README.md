@@ -1,1 +1,0 @@
-새끼 프로그래머의 고군분투 [코딩블로그](http://https://koallamara.github.io/)입니다.
