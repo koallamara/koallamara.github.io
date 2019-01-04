@@ -2,8 +2,8 @@ title:             Seeking Coding
 email:             koallamara@gmail.com
 description:       새끼 프로그래머의 고군분투
 author:            koallamara
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:
+url:               "https://koallamara.github.io"
 
 # Social Profiles
 github_username:   koallamara
@@ -15,4 +15,3 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-baseurl:
